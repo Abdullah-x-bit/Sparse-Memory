@@ -69,8 +69,8 @@ Below is an example waveform from the simulation:
 Nanotechnology and Nanoelectronics Engineering Student  
 Zewail City of Science and Technology  
 
-📧 Contact: [abdullah@example.com](mailto:abdullah@example.com)  
-🌐 GitHub: [AbdullahIbrahim](https://github.com/AbdullahIbrahim)
+📧 Contact: [Email](s-abdullah.afifi@zewailcity.edu.eg)  
+🌐 GitHub: [Abdullah Afifi](https://github.com/Abdullah-x-bit)
 
 ---
 
